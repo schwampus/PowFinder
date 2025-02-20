@@ -1,4 +1,4 @@
-# ❄️ https://powfinder.netlify.app/
+# ❄️ https://powfinder.netlify.app/ ❄️
 
 This project was made during our course: Js with Frameworks.  We worked with Vue and Vite. 
 Here's a list of stuff that makes this site work:
