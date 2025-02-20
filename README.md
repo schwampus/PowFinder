@@ -1,7 +1,7 @@
 # ❄️ https://powfinder.netlify.app/ ❄️
 
 This project was made during our course: Js with Frameworks.  We worked with Vue and Vite. 
-Here's a list of stuff that makes this site work:
+<p>Here's a list of stuff that makes this site work:</p>
 
  - v-for &nbsp;| it renders the list of forecasts.
  - v-model &nbsp;| renders amount of days depending on number chosen in dropdown.
