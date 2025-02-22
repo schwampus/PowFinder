@@ -1,6 +1,7 @@
 # ❄️ [powfinder.netlify.app](https://powfinder.netlify.app/) ❄️
 
-This project was made during our course: Js with Frameworks.  We worked with Vue and Vite. 
+This project was made during our course: Js with Frameworks.  
+I coded this project using Vue3 and Vite.
 
 <p>Here's a list of stuff that makes this site work:</p>
 
