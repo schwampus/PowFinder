@@ -1,4 +1,4 @@
-# ❄️ https://powfinder.netlify.app/ ❄️
+# ❄️ [powfinder.netlify.app](https://powfinder.netlify.app/){:target="_blank"} ❄️
 
 This project was made during our course: Js with Frameworks.  We worked with Vue and Vite. 
 
